@@ -11,3 +11,8 @@ To Pull remote changes
 git pull
 git pull origin {branch name}
 
+
+github.com create branch 
+local  git fetch 
+git checkout {branch name}
+git branch
